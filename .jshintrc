@@ -1,0 +1,13 @@
+{
+  "curly": false,
+  "undef": false,
+  "unused": false,
+  "asi": true,
+  "node": true,
+  "eqeqeq": false,
+  "eqnull": true,
+  "laxbreak": true,
+  "loopfunc": true,
+  "-W041": false,
+  "-W034": true
+}
